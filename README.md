@@ -44,6 +44,12 @@ You can find the pretrained weight in the `weights` folder. The `_DF` extension 
 
 **Vincent Nozick** - [Website](http://www-igm.univ-mlv.fr/~vnozick/?lang=fr)
 
+**Chee Min Hao** - Monash University Malaysia | FYP MCS1 2022
+
+**Lee Bao Qi** - Monash University Malaysia | FYP MCS1 2022
+
+**William Lai Jun Hua** - Monash University Malaysia | FYP MCS1 2022
+
 ## References
 
 Afchar, D., Nozick, V., Yamagishi, J., & Echizen, I. (2018, September). [MesoNet: a Compact Facial Video Forgery Detection Network](https://arxiv.org/abs/1809.00888). In IEEE Workshop on Information Forensics and Security, WIFS 2018.
