@@ -1,4 +1,4 @@
-# MesoNet
+# FYP: Bias in Deepfake Detection
 
 You can find here the implementation of the network architecture and the dataset used in our paper on digital forensics. It was accepted at the [WIFS 2018 conference](http://wifs2018.comp.polyu.edu.hk).
 
